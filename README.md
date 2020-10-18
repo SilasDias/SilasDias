@@ -40,5 +40,7 @@ Sou formado em Análise e desenvolvimento de sistema pela Fatec. Atualmente estu
 
 <a href="https://www.instagram.com/s1l4sd14s/" target="_blank"><img src="https://i.imgur.com/H6VP9vL.png" width="16"></img></a> [instagram](https://www.instagram.com/s1l4sd14s/) 
 
+<h1></h1>
+
 
 ![](https://komarev.com/ghpvc/?username=silasdias&label=PROFILE+VIEWS)
