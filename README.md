@@ -38,4 +38,7 @@ Sou formado em Análise e desenvolvimento de sistema pela Fatec. Atualmente estu
  ## :mag: Onde me encontrar:
 <a href="https://www.linkedin.com/in/silas-dias-483465179/" target="_blank"><img src="https://i.imgur.com/zslJLCN.png?1" width="16"></img> </a> [LinkedIn](https://www.linkedin.com/in/silas-dias-483465179/)
 
-<a href="https://www.instagram.com/s1l4sd14s/" target="_blank"><img src="https://i.imgur.com/H6VP9vL.png" width="16"></img></a> [instagram](https://www.instagram.com/s1l4sd14s/)  
+<a href="https://www.instagram.com/s1l4sd14s/" target="_blank"><img src="https://i.imgur.com/H6VP9vL.png" width="16"></img></a> [instagram](https://www.instagram.com/s1l4sd14s/) 
+
+
+![](https://komarev.com/ghpvc/?username=silasdias&color=blue&style=flat
