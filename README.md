@@ -6,16 +6,9 @@
   :computer: SilasDias - Engenharia de Computação
 </h1>
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdias&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=silasdias&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>
-
-
+[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/SilasDias)](https://github.com/SilasDias)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-dias-483465179/)](https://www.linkedin.com/in/silas-dias-483465179/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/s1l4sd14s/)](https://www.instagram.com/s1l4sd14s/)
 
 ## :book: Sejam Bem vindos :)
 
@@ -41,6 +34,15 @@ Sou formado em Análise e desenvolvimento de sistema pela Fatec. Atualmente estu
 <a href="https://www.instagram.com/s1l4sd14s/" target="_blank"><img src="https://i.imgur.com/H6VP9vL.png" width="16"></img></a> [instagram](https://www.instagram.com/s1l4sd14s/) 
 
 <h1></h1>
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdias&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=silasdias&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>
 
 
 ![](https://komarev.com/ghpvc/?username=silasdias&label=PROFILE+VIEWS)
