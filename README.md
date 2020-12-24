@@ -25,7 +25,7 @@ Sou formado em Análise e desenvolvimento de sistema pela Fatec. Atualmente estu
  </ul>
   
  ## :mag: Onde me encontrar:
-[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/SilasDias)](https://github.com/SilasDias)
+[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/SilasDias, _blank)](https://github.com/SilasDias)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-dias-483465179/)](https://www.linkedin.com/in/silas-dias-483465179/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/s1l4sd14s/)](https://www.instagram.com/s1l4sd14s/)
 
