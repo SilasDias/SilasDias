@@ -9,7 +9,7 @@
 ## :book: Sejam Bem vindos :)
 
 <p> 
-Sou formado em Análise e desenvolvimento de sistema pela Fatec. Atualmente estudo nas linguagens JAVA, JAVASCRIPT, HTML, CSS, e Android. Tenho habilidades com NodeJs, React e ambiente Linux. Participante da primeira Piscina da amaerica latina da escola  42 São Paulo de programação. Sempre procuro ficar atualizado com a área e as novas tecnologias (bootcamps, cursos e noticias).
+Sou formado em Análise e desenvolvimento de sistema pela Fatec. Atualmente estudo nas linguagens JAVA, JAVASCRIPT, HTML, CSS, e Android. Tenho habilidades com NodeJs, React e ambiente Linux. Participante da primeira Piscina da america latina da escola  42 São Paulo de programação. Sempre procuro ficar atualizado com a área e as novas tecnologias (bootcamps, cursos e noticias).
     
     
  ## :iphone: Tecnologias e ferramentas:
