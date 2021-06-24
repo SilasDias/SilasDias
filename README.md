@@ -16,18 +16,17 @@ Sou formado em Análise e desenvolvimento de sistema pela Fatec. Atualmente estu
  <ul>
   <li>Java</li>
   <li>SpringBoot</li>
-  <li>JDBC</li>
-  <li>JPA</li>
+  <li>Jdbc</li>
+  <li>Jpa</li>
   <li>Hibernate</li>
-  <li>MVC</li>
+  <li>Mvc</li>
   <li>MongoDB</li>
   <li>PostGres</li>
   <li>Docker</li>
-  <li>Javascript</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Node.js</li>
-  <li>React</li>
+  <li>Debian/Ubuntu</li>
  </ul>
   
  ## :mag: Onde me encontrar:
