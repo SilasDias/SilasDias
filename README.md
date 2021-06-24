@@ -14,14 +14,20 @@ Sou formado em Análise e desenvolvimento de sistema pela Fatec. Atualmente estu
     
  ## :iphone: Tecnologias e ferramentas:
  <ul>
+  <li>Java</li>
+  <li>SpringBoot</li>
+  <li>JDBC</li>
+  <li>JPA</li>
+  <li>Hibernate</li>
+  <li>MVC</li>
+  <li>MongoDB</li>
+  <li>PostGres</li>
+  <li>Docker</li>
   <li>Javascript</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Node.js</li>
   <li>React</li>
-  <li>Java</li>
-  <li>AndroidStúdio</li>
-  <li>SQLite3</li>
  </ul>
   
  ## :mag: Onde me encontrar:
