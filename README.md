@@ -13,22 +13,28 @@ Sou formado em Análise e desenvolvimento de sistema pela Fatec. Sou iniciante c
     
     
  ## :iphone: Tecnologias e ferramentas:
- <ul>
-  <li>Java</li>
-  <li>SpringBoot</li>
-  <li>JDBC</li>
-  <li>JPA</li>
-  <li>Hibernate</li>
-  <li>MVC</li>
-  <li>MongoDB</li>
-  <li>PostGres</li>
-  <li>Docker</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Node.js</li>
-  <li>JavaScript</li>
-  <li>Debian/Ubuntu</li>
- </ul>
+ 
+<table>
+    <tr>
+        <td> <li>Java</li>
+  	<li>SpringBoot</li>
+  	<li>JDBC</li>
+  	<li>JPA</li>
+  	<li>Hibernate</li>
+  	<li>MVC</li>
+  	<li>MongoDB</li>
+  	<li>PostGres</li> </td>
+        <td>
+	<li>Docker</li>
+  	<li>HTML</li>
+  	<li>CSS</li>
+  	<li>Node.js</li>
+  	<li>JavaScript</li>
+  	<li>Debian/Ubuntu</li>	
+	</td>
+    </tr>   
+</table>
+
   
  ## :mag: Onde me encontrar:
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/SilasDias)](https://github.com/SilasDias)
