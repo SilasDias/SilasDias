@@ -16,10 +16,10 @@ Sou formado em Análise e desenvolvimento de sistema pela Fatec. Sou iniciante c
  <ul>
   <li>Java</li>
   <li>SpringBoot</li>
-  <li>Jdbc</li>
-  <li>Jpa</li>
+  <li>JDBC</li>
+  <li>JPA</li>
   <li>Hibernate</li>
-  <li>Mvc</li>
+  <li>MVC</li>
   <li>MongoDB</li>
   <li>PostGres</li>
   <li>Docker</li>
