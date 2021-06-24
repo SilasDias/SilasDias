@@ -24,11 +24,8 @@ Sou formado em Análise e desenvolvimento de sistema pela Fatec. Sou iniciante c
   	<li>MongoDB</li>
   	<li>PostGres</li>
 	<li>Docker</li>
-  	<li>HTML</li>
-  	<li>CSS</li>
   	<li>Node.js</li>
   	<li>JavaScript</li>
-  	<li>Debian/Ubuntu</li>
 </ul>
 
   
