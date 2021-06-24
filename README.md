@@ -14,26 +14,22 @@ Sou formado em Análise e desenvolvimento de sistema pela Fatec. Sou iniciante c
     
  ## :iphone: Tecnologias e ferramentas:
  
-<table>
-    <tr>
-        <td> <li>Java</li>
+<ul>
+        <li>Java</li>
   	<li>SpringBoot</li>
   	<li>JDBC</li>
   	<li>JPA</li>
   	<li>Hibernate</li>
   	<li>MVC</li>
   	<li>MongoDB</li>
-  	<li>PostGres</li> </td>
-        <td>
+  	<li>PostGres</li>
 	<li>Docker</li>
   	<li>HTML</li>
   	<li>CSS</li>
   	<li>Node.js</li>
   	<li>JavaScript</li>
-  	<li>Debian/Ubuntu</li>	
-	</td>
-    </tr>   
-</table>
+  	<li>Debian/Ubuntu</li>
+</ul>
 
   
  ## :mag: Onde me encontrar:
