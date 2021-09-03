@@ -1,6 +1,10 @@
-<h2 align="center">
-    <img alt="preview application" src="https://i.imgur.com/X23oEk3.png" width="1200px"/>
-</h2>
+<p> <img src="http://views.whatilearened.today/views/github/SilasDias/views.svg"/>
+  <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
+    <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
+<a href="https://github.com/SilasDias/"><img src="https://img.shields.io/github/followers/SilasDias?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/SilasDias?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
+    
+![capa github](https://i.imgur.com/X23oEk3.png)  
 
 <h1 align="center">
   :computer: SilasDias - Engenharia de Computação
@@ -28,6 +32,15 @@ Sou formado em Análise e desenvolvimento de sistema pela Fatec. Sou iniciante c
   	<li>JavaScript</li>
 </ul>
 
+#
+
+![Silas's github stats](https://github-readme-stats.vercel.app/api?username=SilasDias&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilasDias&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
   
  ## :mag: Onde me encontrar:
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/SilasDias)](https://github.com/SilasDias)
@@ -36,14 +49,7 @@ Sou formado em Análise e desenvolvimento de sistema pela Fatec. Sou iniciante c
 
 <h1></h1>
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdias&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=silasdias&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>
+
 
 
 ![](https://komarev.com/ghpvc/?username=silasdias&label=PROFILE+VIEWS)
