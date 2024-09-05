@@ -13,7 +13,15 @@
 ## :book: Sejam Bem vindos :)
 
 <p> 
-Sou formado em Análise e Desenvolvimento de Sistema pela Fatec. Iniciante como desenvolvedor, com 6 meses de experiência em desenvolvimento Web. Tenho conhecimento no desenvolvimento na linguagem Java utilizando framework Spring Boot, JDBC, Spring Data JPA e Hibernate. Banco de dados (MongoDB, PostgreSQL) e arquitetura RESTFul e  MVC. Trabalhei em algumas aplicações desenvolvendo a parte do Crud e algumas Apis RestFul. Participante da primeira Piscina da america latina da escola  42 São Paulo de programação. Sempre procuro ficar atualizado com a área e as novas tecnologias (bootcamps, cursos e noticias).
+Sou formado em Análise e Desenvolvimento de Sistemas pela Fatec e atuo como Engenheiro de Software Júnior. Tenho experiência em desenvolvimento com Java, utilizando frameworks e bibliotecas como Spring Boot para criação de microserviços e aplicações escaláveis, e Spring Cloud para construção de sistemas distribuídos e resilientes.
+
+Possuo conhecimentos em bancos de dados relacionais, como PostgreSQL. Tenho experiência na implementação de arquiteturas RESTful, seguindo os princípios de design de APIs REST, e na utilização de Spring Data para simplificação do acesso a dados.
+
+Além disso, tenho experiência com Spring Batch para processamento eficiente de grandes volumes de dados e com ShellScript para automação de tarefas e scripts de deploy.
+
+Fui participante da primeira Piscina da América Latina da escola 42 São Paulo de programação, onde fui desafiado a resolver problemas complexos e a colaborar em projetos de grande escala.
+
+Estou sempre em busca de atualização constante na área de tecnologia, participando de bootcamps, cursos e acompanhando as últimas notícias do setor. Meu objetivo é continuar aprimorando minhas habilidades e contribuir para o desenvolvimento de soluções inovadoras.
     
     
  ## :iphone: Tecnologias e ferramentas:
