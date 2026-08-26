@@ -39,11 +39,17 @@ Minha trajetória inclui a participação na primeira Piscina da 42 São Paulo, 
 
 ---
 
-## Estatísticas
+## Tecnologias e métricas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilasDias&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasDias&theme=radical&hide=PlpgSQL,jupyter%20notebook,html" alt="Top Langs" width="48%"/>
+  <img src="https://img.shields.io/badge/Front%20End-Angular-f55247" alt="Angular" />
+  <img src="https://img.shields.io/badge/Back%20End-Java-f55247" alt="Java" />
+  <a href="https://github.com/SilasDias/">
+    <img src="https://img.shields.io/github/followers/SilasDias?color=%234CC61E&label=GitHub%20Followers" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/SilasDias?tab=repositories">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source" />
+  </a>
 </p>
 
 ---
@@ -51,7 +57,7 @@ Minha trajetória inclui a participação na primeira Piscina da 42 São Paulo, 
 ## Contato
 
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/SilasDias)](https://github.com/SilasDias)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-dias-483465179/)](https://www.linkedin.com/in/silas-dias-483465179/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-jesus-dias/)](https://www.linkedin.com/in/silas-jesus-dias/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/s1l4sd14s/)](https://www.instagram.com/s1l4sd14s/)
 
 ---
