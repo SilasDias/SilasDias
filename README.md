@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/gallery/capa-a7dqtyW#fxb5a4I" alt="capa github" width="100%"/>
+  <img src="https://i.imgur.com/fxb5a4I.jpeg" alt="capa github" width="100%"/>
 </p>
 
 # Silas Dias · Engenheiro de Software Júnior
